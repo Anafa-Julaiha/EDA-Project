@@ -1,4 +1,4 @@
-# Data Analysis and Visualization Project
+# DataSpark: EDA and Visualization Project
 
 This project aims to analyze and visualize customer, sales, product, and store data using Power BI. We integrate multiple datasets, clean and prepare the data, execute SQL queries to extract insights, and develop interactive visualizations in Power BI.
 
